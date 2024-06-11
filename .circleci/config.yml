@@ -30,4 +30,4 @@ workflows:
   build_workflow:
     jobs:
       - build
-      - test
+      - clone
